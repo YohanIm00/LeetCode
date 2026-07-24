@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/YohanIm00/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/YohanIm00/LeetCode/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/YohanIm00/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/YohanIm00/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/YohanIm00/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/YohanIm00/LeetCode/tree/master/0645-set-mismatch) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YohanIm00/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/YohanIm00/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Linked List
@@ -62,8 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/YohanIm00/LeetCode/tree/master/0383-ransom-note) |
+| [0645-set-mismatch](https://github.com/YohanIm00/LeetCode/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/YohanIm00/LeetCode/tree/master/0383-ransom-note) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/YohanIm00/LeetCode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
